@@ -14,7 +14,7 @@
 ---|---|---
 flex-direction | row , row-reverse , column , column-reverse | row
 flex-wrap | nowrap , wrap , wrap-reverse | nowrap
-flex-flow  | <flex-direction>  <flex-wrap> | 
+flex-flow  | [<flex-direction>  <flex-wrap>] | 
 justify-content | flex-start , flex-end , center , space-between , space-around , space-evenly | flex-start
 align-items | stretch , flex-start , flex-end , center , baseline | stretch
 align-content | flex-start , flex-end , center , space-between , space-around , stretch | flex-start
@@ -28,7 +28,7 @@ order | integer | 0
 flex-grow | number | 0
 flex-shrink | number | 1
 flex-basis | length , auto | auto
-flex | <flex-grow> <flex-shrink> <flex-basis> | 0 1 auto
+flex | [<flex-grow> <flex-shrink> <flex-basis>] | 0 1 auto
 align-self | auto , flex-start , flex-end , center , baseline , stretch | auto继承父元素`align-items`
 
 flex属性一些简写
