@@ -45,3 +45,4 @@ flex: none = flex: 0 0 auto; // 常用于固定尺寸 不伸缩
 - [flex支持程度](https://caniuse.com/#search=flex) (IE10+)
 
 #### 总结
+![弹性盒模型](https://github.com/LittleBox93/flexbox/blob/master/img/%E5%BC%B9%E6%80%A7%E7%9B%92%E6%A8%A1%E5%9E%8B%E6%80%BB%E7%BB%93.png?raw=true)
